@@ -5,7 +5,7 @@
 <li>I do have a discord account that u can reach to me! discord: @enderlightv
 
 # What I'm Working On:
-Solarium's Solarmoji, free to use. Solarium is in my bio if u want to check it out!/
+Solarmoji (emojis) from Solarium. U can check out Solarium under my bio!
 <!---
 enderv11/enderv11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
