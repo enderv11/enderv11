@@ -1,5 +1,5 @@
 # hai! :D
-<li>I’m @enderv11, uhh, i like pizza and uh bespi<li>
+<li>I’m @enderv11, uhh, i like pizza and uh bespi
 <li>I can do UX/UI design, logos/icons, etc. i can't code tho :(<li>
 <li>I do have a discord account that u can reach to me! discord: @enderlightv<li>
 # What I'm Working On:
